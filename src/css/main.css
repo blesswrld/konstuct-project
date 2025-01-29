@@ -92,7 +92,6 @@ p {
 }
 
 .text {
-    flex: 1;
     max-width: 500px;
 }
 
@@ -130,14 +129,12 @@ h2 {
 }
 
 .images {
-    flex: 1;
     display: flex;
     justify-content: space-between;
     gap: 15px;
 }
 
 .card {
-    flex: 1;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
@@ -209,7 +206,6 @@ h2 {
 }
 
 .capabilities-card {
-    flex: 1;
     background-color: #fff;
     border: 1px solid #ddd;
     border-radius: 5px;
